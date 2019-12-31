@@ -1,0 +1,15 @@
+<%- include('header') %>
+    <section class="container">
+        <form action="/cotacao" method="GET">
+            <div>
+                <input type="number" name="cotacao" placeholder="Cotação dolar" step="0.1" required>
+            </div>
+            <div>
+                <input type="number" name="quantidade" placeholder="Quantidade dolar" step="0.0" required>
+            </div>
+            <div>
+                <input type="submit" placeholder="Converter">
+            </div>
+        </form>
+    </section>    
+<%- include('footer') %>

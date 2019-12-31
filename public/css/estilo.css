@@ -1,0 +1,67 @@
+*  {
+    margin: 0;
+    padding: 0;
+}
+
+.warning {
+    box-sizing: border-box;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    color: #856404;
+    font-size: 14px;
+    padding: 10px;
+}
+
+header h1 {
+    margin:20px auto;
+    width: 600px;
+}
+
+header h1 a {
+    display: block;
+}
+
+header h1 a img {
+    width: 100%;
+}
+
+section.container {
+    margin:10px auto;
+    width: 600px;
+}
+
+/**
+* Form Cotação
+**/
+
+section.container input[type='number'],
+section.container input[type='submit'] {
+    box-sizing: border-box;
+    border: 1px solid #989899;
+    border-radius: 2px;
+    display: block;
+    font-size: 14px;
+    margin:10px auto;
+    padding: 12px 6px;
+    width: 90%;
+}
+
+section.container input[type='submit'] {
+    background-color: #44af86;
+    border: 1px solid #85d89a;
+    cursor: pointer;
+    color: #FFF;
+    font-weight: 700;
+}
+
+/**
+* Result
+**/
+
+section.container .result {
+    box-sizing: border-box;
+    background-color: #ececec;
+    border: 1px solid #dfdfdf;
+    color: #000;
+    padding: 10px;
+}

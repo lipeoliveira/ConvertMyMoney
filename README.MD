@@ -1,3 +1,4 @@
+
 # ConvertMyMoney
 
 Esta aplicação foi construida para realizar cotação de dolares em reais.
@@ -8,6 +9,4 @@ Esta aplicação foi construida para realizar cotação de dolares em reais.
    jest: 24.9.0,
 
 # Visualizar online 
-<a href="https://convertmymoney-iota-seven.now.sh/"></a>
- 
-Para utilizar basta clonar o repositório e instalar as dependências através do comando npm install
+

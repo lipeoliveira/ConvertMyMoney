@@ -8,5 +8,5 @@ Esta aplicação foi construida para realizar cotação de dolares em reais.
    express: 4.17.1,
    jest: 24.9.0,
 
-# Visualizar online 
+ 
 
